@@ -1,0 +1,183 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 1024px;
+    margin: 0 auto;
+}
+header {
+    width: 1024px;
+    height: 100px;
+    border: 3px solid black;
+}
+nav {
+    width: 1024px;
+    height: 80px;
+    border: 3px solid black;
+    font-family: monospace;
+}
+.films {
+    width: 1024px;
+    height: 1300px;
+    border: 3px solid grey;
+}
+.hr {
+    width: 1024px;
+    height: 40px;
+    background: rgb(105, 105, 105);
+}
+.forms {
+    width: 1024px;
+    height: 400px;
+}
+.hr2 {
+    width: 1024px;
+    height: 40px;
+    background: rgb(105, 105, 105);
+}
+.comments {
+    width: 1024px;
+    height: 1000px;
+    font-family: monospace;
+}
+footer {
+    width: 1024px;
+    height: 80px;
+    background: rgb(116, 116, 116);
+    margin-top: 570px;
+    text-align: center;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.search {
+    border: 3px solid rgb(143, 142, 142);
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 60px;
+    font-family: monospace;
+}
+.submit {
+    width: 100px;
+    height: 30px;
+    background: rgb(105, 105, 105);
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+    font-family: monospace;
+}
+.s_reg {
+    width: 400px;
+    height: 290px;
+    border: 6px solid gray;
+    float: left;
+    margin-top: 20px;
+    font-family: monospace;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.s_comment {
+    width: 500px;
+    height: 290px;
+    border: 6px solid gray;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.b1 {
+    width: 150px;
+height: 50px;
+background: rgb(105, 105, 105);
+border-radius: 20px;
+margin-top: 10px;
+margin-left: 400px;
+font-family: monospace;
+}
+textarea {
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+    margin-top: 30px;
+    border: 3px solid black;
+    font-family: monospace;
+}
+.name {
+    width: 200px;
+    height: 30px;
+    border: 3px solid black;
+    font-family: monospace;
+}
+.g3 {
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: monospace;
+}
+.section_nav {
+    margin-top: 15px;
+    float: right;
+    margin-right: 40px;
+    width: 120px;
+    height: 40px;
+    background: rgb(105, 105, 105);
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.film {
+    height: 410px;
+    width: 350px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(181,181,181,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(181,181,181,1);
+box-shadow: 10px 10px 5px 0px rgba(181,181,181,1);
+float: left;
+     padding: 15px;
+     margin-left: 100px;
+     text-align: center;
+     font-family: monospace;
+     
+}
+.img_film {
+    height: 325px;
+    width: 230px;
+    font-family: monospace;
+}
+.comments {
+    float: left;
+    width: 480px;
+    height: 256px;
+background: white;
+margin-right: 20px;
+margin-top: 50px;
+border: 2px solid black;
+font-family: monospace;
+border-radius: 20px;
+}
+.secti {
+    margin-top: 30px;
+    width: 475px;
+    height: 60px;
+    background: rgba(0, 0, 0, 0.171);
+    font-family: monospace;
+}
+.secti_p {
+    float: left;
+    padding-right: 130px;
+    font-family: monospace;
+}
+.slider {
+    width: 1024px;
+    height: 800px;
+    background: white;
+    font-family: monospace;
+}
+
